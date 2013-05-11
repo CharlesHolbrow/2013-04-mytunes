@@ -24,7 +24,6 @@ var songData = [
     artist: "Aaliyah",
     url: "mp3s/It's Whatever.mp3"
   },
-
   {
     title: "Age Ain't Nothing But A Number",
     artist: "Aaliyah",
@@ -40,13 +39,11 @@ var songData = [
     artist: "Aaliyah",
     url: "mp3s/Choosey Lover [Old School_New School].mp3"
   },
-
   {
     title: "Everything's Gonna Be Alright",
     artist: "Aaliyah",
     url: "mp3s/Everything's Gonna Be Alright.mp3"
   },
-
   {
     title: "Rock The Boat",
     artist: "Aaliyah",
