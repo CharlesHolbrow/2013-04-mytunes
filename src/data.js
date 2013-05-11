@@ -30,8 +30,6 @@ var songData = [
     artist: "Aaliyah",
     url: "mp3s/Age Ain't Nothing But A Number.mp3"
   },
-
-
   {
     title: "If Your Girl Only Knew",
     artist: "Aaliyah",
