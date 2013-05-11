@@ -1,4 +1,8 @@
+//
+
 var SongQueueView = Backbone.View.extend({
+
+  tagName: 'ul',
 
   initialize: function() {
   },
